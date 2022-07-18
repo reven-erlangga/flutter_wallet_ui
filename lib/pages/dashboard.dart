@@ -15,7 +15,7 @@ class DashboardPage extends StatelessWidget {
                 shrinkWrap: true,
                 children: [
                   Text(
-                    "Hello",
+                    "Hello,",
                     style: regularTextStyle.copyWith(
                         fontSize: 18.0, color: Colors.grey[500]),
                   ),
